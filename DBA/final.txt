@@ -1,0 +1,44 @@
+id,imagen,Nombre, Ocupación, Alianza, Origen, Años de Edad, Nombre de la Fruta, Poder de la Fruta, Recompensa,status
+1,,Monkey D. Luffy, Capitán de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, East Blue,19, Gomu Gomu no Mi, Convertirse en goma,1500000000,1
+2,,Roronoa Zoro, Espadachín de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, East Blue,21, N/A, N/A,320000000,1
+3,,Nami, Navegante de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, East Blue,20, N/A, N/A,66000000,1
+4,,Usopp, Francotirador de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, East Blue,19, N/A, N/A,200000000,1
+5,,Sanji, Cocinero de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, North Blue,21, N/A, N/A,330000000,1
+6,,Tony Tony Chopper, Médico de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, Grand Line (Drum Island),17, Hito Hito no Mi, Convertirse en humano,100,1
+7,,Nico Robin, Arqueóloga de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, West Blue,30, Hana Hana no Mi, Crear partes de su cuerpo en cualquier superficie,130000000,1
+8,,Franky, Carpintero de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, South Blue,36, N/A, N/A,94000000,1
+9,,Brook, Músico de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, West Blue,90, Yomi Yomi no Mi, Resurrección,83000000,1
+10,,Jinbe, Timonel de los Piratas de Sombrero de Paja, Piratas de Sombrero de Paja, Fish-Man Island,46, N/A, N/A,438000000,1
+11,,Portgas D. Ace, Comandante de la 2ª división de los Piratas de Barbablanca, Piratas de Barbablanca, Grand Line,20, Mera Mera no Mi, Control del fuego,550000000,1
+12,,Shanks, Capitán de los Piratas del Pelirrojo, Piratas del Pelirrojo, West Blue,39, N/A, N/A,4048900000,1
+13,,Marshall D. Teach, Capitán de los Piratas de Barbanegra, Piratas de Barbanegra, Grand Line,40, Yami Yami no Mi, Control de la oscuridad,2247600000,1
+14,,Edward Newgate, Capitán de los Piratas de Barbablanca, Piratas de Barbablanca, Grand Line,72, Gura Gura no Mi, Generar terremotos,5046000000,1
+15,,Kaido, Gobernador general de los Piratas de las Bestias, Piratas de las Bestias, Grand Line,59, Uo Uo no Mi  Modelo: Seiryu Modelo: Seiryu, Convertirse en dragón,4611100000,1
+16,,Charlotte Linlin, Capitana de los Piratas de Big Mom, Piratas de Big Mom, Grand Line,68, Soru Soru no Mi, Controlar almas,4388000000,1
+17,,Trafalgar D. Water Law, Capitán de los Piratas de Heart, Piratas de Heart, North Blue,26, Ope Ope no Mi, Manipulación espacial,500000000,1
+18,,Eustass Kid, Capitán de los Piratas de Kid, Piratas de Kid, South Blue,23, Jiki Jiki no Mi, Control del magnetismo,470000000,1
+19,,Donquixote Doflamingo, Capitán de los Piratas de Donquixote, Piratas de Donquixote, North Blue,41, Ito Ito no Mi, Control de hilos,340000000,1
+20,,Crocodile, Ex-Shichibukai, Baroque Works, Grand Line,46, Suna Suna no Mi, Control de arena,81000000,1
+21,,Dracule Mihawk, Shichibukai, Independiente, East Blue,43, N/A, N/A,359000000,1
+22,,Boa Hancock, Capitana de los Piratas Kuja, Piratas Kuja, Amazon Lily,31, Mero Mero no Mi, Convertir a otros en piedra,80000000,1
+23,,Buggy, Capitán de los Piratas de Buggy, Piratas de Buggy, East Blue,39, Bara Bara no Mi, Separar su cuerpo en partes,15000000,1
+24,,Bartholomew Kuma, Shichibukai, Revolucionarios, South Blue,47, Nikyu Nikyu no Mi, Repeler cualquier cosa,296000000,1
+25,,Enel, Dios de Skypiea, Skypiea, Grand Line,39, Goro Goro no Mi, Control del rayo,500000000,1
+26,,Rob Lucci, CP0, Gobierno Mundial, Grand Line,30, Neko Neko no Mi  Modelo: Leopardo, Convertirse en leopardo,400000000,1
+27,,Arlong, Capitán de los Piratas de Arlong, Piratas de Arlong, Grand Line,41, N/A, N/A,20000000,1
+28,,Jango, Comandante de la Flota de los Piratas de Black Cat, Piratas de Black Cat, East Blue,27, N/A, N/A,9000000,1
+29,,Kuro, Capitán de los Piratas de Black Cat, Piratas de Black Cat, East Blue,33, N/A, N/A,16000000,1
+30,,Smoker, Vicealmirante, Marina, Grand Line,36, Moku Moku no Mi, Convertirse en humo,50000000,1
+31,,Tashigi, Capitana, Marina, Grand Line,23, N/A, N/A,20000000,1
+32,,Sabo, Jefe de Estado Mayor, Revolucionarios, Grand Line,22, Mera Mera no Mi, Control del fuego,602000000,1
+33,,Kizaru, Almirante, Marina, Grand Line,58, Pika Pika no Mi, Convertirse en luz,500000000,1
+34,,Aokiji, Ex-Almirante, Marina, Grand Line,49, Hie Hie no Mi, Convertirse en hielo,500000000,1
+35,,Akainu, Almirante de la Flota, Marina, Grand Line,55, Magu Magu no Mi, Control del magma,500000000,1
+36,,Sengoku, Inspector General, Marina, Grand Line,79, Hito Hito no Mi  Modelo: Daibutsu, Convertirse en un gran Buda,500000000,1
+37,,Monkey D. Garp, Vicealmirante, Marina, East Blue,78, N/A, N/A,500000000,1
+38,,Gol D. Roger, Capitán de los Piratas de Roger, Piratas de Roger, Grand Line,53, N/A, N/A,5564800000,1
+39,,Silvers Rayleigh, Primer oficial de los Piratas de Roger, Piratas de Roger, Grand Line,78, N/A, N/A,500000000,1
+40,,Nefertari Vivi, Princesa de Arabasta, Arabasta, Grand Line,18, N/A, N/A,100000000,1
+41,,Carrot, Mink de los Guardianes de la Noche, Guardianes de la Noche, Zou,15, N/A, N/A,50000000,1
+42,,Pedro, Capitán de los Guardianes de la Noche, Guardianes de la Noche, Zou,32, N/A, N/A,382000000,1
+43,,Pekoms, Guerrero de los Piratas de Big Mom, Piratas de Big Mom, Grand Line,27, Kame Kame no Mi, Convertirse en tortuga,33000000,1
